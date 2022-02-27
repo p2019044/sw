@@ -35,7 +35,7 @@
   https://p2019044.github.io/online-cv/ Link Βιογραφικού
   <br> ΒΙΒΛΙΟΓΡΑΦΙΑ
  <br> 
- https://courses-ionio.github.io/help/cv/ ΟΔΗΓΙΕΣ ΜΑΘΗΜΑΤΟΣ
+ https://courses-ionio.github.io/help/cv/ ΟΔΗΓΙΕΣ ΜΑΘΗΜΑΤΟΣ <br>
  https://github.com/sharu725/online-cv    ΜΟΡΦΟΤΥΠΟ 1ο
   
   
