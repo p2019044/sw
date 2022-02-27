@@ -5,7 +5,7 @@
 | Εβδομάδα |παραδοτέα| Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |<a href="https://github.com/courses-ionio/help/discussions/124">Παρουσίαση προόδου εισαγωγής</a>| |
-| 2 | | <li><a href="#Βιογραφικό"><span class="toctext">Βιογραφικό</span></a> |<a href="">Παρουσίαση προόδου εισαγωγής</a> |
+| 2 |<li><a href="#Βιογραφικό"><span class="toctext">Βιογραφικό</span></a> |  |<a href="">Παρουσίαση προόδου εισαγωγής</a> |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
