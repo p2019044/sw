@@ -6,8 +6,8 @@
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |<a href="https://github.com/courses-ionio/help/discussions/124">Παρουσίαση προόδου εισαγωγής</a>| |
 | 2 |<li><a href="#Βιογραφικό"><span class="toctext">Βιογραφικό</span></a> |  ||
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 3 | <li><a href="#Διόρθωση Σελίδας"><span class="toctext">Διόρθωση Σελίδας/span></a>| | |
+| 4 | <li><a href="#Εγκατάσταση Λογισμικού"><span class="toctext">Εγκατάσταση Λογισμικού</span></a>| | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -37,5 +37,24 @@
  <br> 
  https://courses-ionio.github.io/help/cv/ ΟΔΗΓΙΕΣ ΜΑΘΗΜΑΤΟΣ <br>
  https://github.com/sharu725/online-cv    ΜΟΡΦΟΤΥΠΟ 1ο
+ <hr></hr>
+  
+  <h2><span id="Διόρθωση Σελίδας">Διόρθωση Σελίδας</span></h2>
+  Στο 3ο παραδοτέο έπρεπε να προτείνουμε κάποια διόρθωση σε μια σελίδα του πανεπιστιμίου και έπειτα να την τροποποιήσουμε και να κανουμε pull request.
+  Εγώ προτεινα να προσθέσω το μάθημα της Θεωρίας Γραφημάτων Και Εφαρμογών στο 6ο εξάμηνο. <br>
+  
+  Issue : https://github.com/ioniodi/sitegr/issues/306
   
   
+  <hr></hr>
+  
+  <h2><span id="Εγκατάσταση Λογισμικού">Εγκατάσταση Λογισμικού</span></h2>
+  Για το τέταρτο παραδοτέο μας ανατέθηκε να εγκαταστήσουμε ένα λειτουργικό που να μην έχει systemmd. Μετά την υλοποίηση του είχαμε τη δυνατώτητα να κάνουμε
+  μια άσκηση Γραμμής Εντολών για την καλύτερη εξοικείωση μας. Το λειτουργικό που επέλεξα να κατεβάσω για το σκοπό αυτού του παραδοτέου ήταν το freebsd το οποίο 
+  λειτουργεί σε vm <br> 
+  
+  freebsd download: https://www.freebsd.org/where/ <br>
+  asciinema link : https://asciinema.org/a/478488 <br>
+  git install : https://www.digitalocean.com/community/tutorials/how-to-install-git-on-freebsd-11-0?fbclid=IwAR1hq321ZBroaOuf9ugCs6SLJeAThhsRFogHWbsyxrR7E1VSOPaiNMGcmws
+  <br> pip install : https://computingforgeeks.com/how-to-install-pip-python-package-manager-on-freebsd-12/?fbclid=IwAR17Cta5_vUSjWQMQy63a4WOdWA99ApIQR83Rfwam1-UR9nKXCPU7N1UYAY
+ <br> asciinema install : https://github.com/asciinema/asciinema?fbclid=IwAR11tnYDdF8o_t35kZ1E_tANSbUESG3ob_7TsXRCenbKrOJFRadyvXqdMaA <br>
