@@ -5,7 +5,7 @@
 | Εβδομάδα |παραδοτέα| Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |<a href="https://github.com/courses-ionio/sw/discussions/1230">Παρουσίαση προόδου εισαγωγής</a>| |
-| 2 |<li><a href="#Βιογραφικό"><span class="toctext">Βιογραφικό</span></a> |  ||
+| 2 |<li><a href="#FreeBSD/Hyperfine"><span class="toctext">FreeBSD/Hyperfine</span></a> |  ||
 | 3 | <li><a href="#Διόρθωση Σελίδας"><span class="toctext">Διόρθωση Σελίδας</span></a>| | |
 | 4 | <li><a href="#Εγκατάσταση Λογισμικού"><span class="toctext">Εγκατάσταση Λογισμικού</span></a>|<a href="https://github.com/courses-ionio/help/discussions/431">Παρουσίαση Προόδου Παραδοτέου 4</a> | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -19,7 +19,7 @@
 
   
   <hr></hr> 
-  <h2><span id="Εισαγωγή">Εισαγωγή</span></h2>|
+  <h2><span id="Εισαγωγή">Εισαγωγή</span></h2>
   Στόχος μου είναι να μάθω να χρησημοποιώ όσο περισσοτερα προγράμματα μπορώ. Στο συγκεκριμένο μάθημα θέλω να εξοικειωθώ 
   με την πλατφόρμα github αφού είναι μια χρήσημη πλατφόρμα για κάθε προγραμματιστή αφού επικεντρώνεται στη συνεργασία 
   μεταξύ προγραμματιστών για διάδοση και υποστήρηξη λογισμικού επιπλέον θέλω να μάθω περισσότερα για το μάθημα της τεχνολογίας
@@ -28,4 +28,10 @@
   αναπτύσεται ενα λογισμικό καθώς και να είμαι σε θέση να το υλοποιήσω και πρακτικά.
   <hr></hr>
    
+  <h2><span id="FreeBSD/Hyperfine">FreeBSD/Hyperfine</span></h2>
+  Για την επίτευξη της εργασίας για πρώτη φάση χρησημοποίησα και εγκατέστησα το freebsd. Ως άσκηση γραμμής εντολών επέλεξα το performance monitoring
+  με την χρήση hyperfine. Για αυτό τον σκοπό δημιούργησα ένα simple πρόργαμμα σε python το οποίο διαβάζει ένα array και το εκτυπώνει. Εν συνεχεία 
+  έτρεξα την εντολή hyperfine --ignore-failure --export-markdown table2 array.py, το οποίο δημιουργεί και εμφανίζει το benchmark για το συγκεκριμένο πρόγραμμα.
+ 
+  <a href="https://asciinema.org/a/563171"> video with hyperfine</a>
   
